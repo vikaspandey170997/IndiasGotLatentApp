@@ -1,0 +1,244 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\IndiaGotLatent\\NicheSocialPlatform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F541FF4C-7C00-4CED-8909-B1A3F99FD850}|NicheSocialPlatform.csproj|e:\\indiagotlatent\\nichesocialplatform\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F541FF4C-7C00-4CED-8909-B1A3F99FD850}|NicheSocialPlatform.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F541FF4C-7C00-4CED-8909-B1A3F99FD850}|NicheSocialPlatform.csproj|e:\\indiagotlatent\\nichesocialplatform\\controllers\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F541FF4C-7C00-4CED-8909-B1A3F99FD850}|NicheSocialPlatform.csproj|solutionrelative:controllers\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F541FF4C-7C00-4CED-8909-B1A3F99FD850}|NicheSocialPlatform.csproj|e:\\indiagotlatent\\nichesocialplatform\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F541FF4C-7C00-4CED-8909-B1A3F99FD850}|NicheSocialPlatform.csproj|solutionrelative:dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F541FF4C-7C00-4CED-8909-B1A3F99FD850}|NicheSocialPlatform.csproj|e:\\indiagotlatent\\nichesocialplatform\\dtos\\createpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F541FF4C-7C00-4CED-8909-B1A3F99FD850}|NicheSocialPlatform.csproj|solutionrelative:dtos\\createpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F541FF4C-7C00-4CED-8909-B1A3F99FD850}|NicheSocialPlatform.csproj|e:\\indiagotlatent\\nichesocialplatform\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F541FF4C-7C00-4CED-8909-B1A3F99FD850}|NicheSocialPlatform.csproj|solutionrelative:models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F541FF4C-7C00-4CED-8909-B1A3F99FD850}|NicheSocialPlatform.csproj|e:\\indiagotlatent\\nichesocialplatform\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F541FF4C-7C00-4CED-8909-B1A3F99FD850}|NicheSocialPlatform.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F541FF4C-7C00-4CED-8909-B1A3F99FD850}|NicheSocialPlatform.csproj|e:\\indiagotlatent\\nichesocialplatform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F541FF4C-7C00-4CED-8909-B1A3F99FD850}|NicheSocialPlatform.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F541FF4C-7C00-4CED-8909-B1A3F99FD850}|NicheSocialPlatform.csproj|e:\\indiagotlatent\\nichesocialplatform\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F541FF4C-7C00-4CED-8909-B1A3F99FD850}|NicheSocialPlatform.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F541FF4C-7C00-4CED-8909-B1A3F99FD850}|NicheSocialPlatform.csproj|e:\\indiagotlatent\\nichesocialplatform\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F541FF4C-7C00-4CED-8909-B1A3F99FD850}|NicheSocialPlatform.csproj|solutionrelative:context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F541FF4C-7C00-4CED-8909-B1A3F99FD850}|NicheSocialPlatform.csproj|e:\\indiagotlatent\\nichesocialplatform\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F541FF4C-7C00-4CED-8909-B1A3F99FD850}|NicheSocialPlatform.csproj|solutionrelative:data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F541FF4C-7C00-4CED-8909-B1A3F99FD850}|NicheSocialPlatform.csproj|e:\\indiagotlatent\\nichesocialplatform\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F541FF4C-7C00-4CED-8909-B1A3F99FD850}|NicheSocialPlatform.csproj|solutionrelative:dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F541FF4C-7C00-4CED-8909-B1A3F99FD850}|NicheSocialPlatform.csproj|e:\\indiagotlatent\\nichesocialplatform\\nichesocialplatform.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F541FF4C-7C00-4CED-8909-B1A3F99FD850}|NicheSocialPlatform.csproj|solutionrelative:nichesocialplatform.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\NicheSocialPlatform\\Migrations\\20240918100237_initital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\IndiaGotLatent\\NicheSocialPlatform\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "E:\\IndiaGotLatent\\NicheSocialPlatform\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T10:01:07.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "E:\\IndiaGotLatent\\NicheSocialPlatform\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "Data\\SeedData.cs",
+              "ToolTip": "E:\\IndiaGotLatent\\NicheSocialPlatform\\Data\\SeedData.cs",
+              "RelativeToolTip": "Data\\SeedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T10:01:20.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\IndiaGotLatent\\NicheSocialPlatform\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\IndiaGotLatent\\NicheSocialPlatform\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T09:46:13.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Post.cs",
+              "DocumentMoniker": "E:\\IndiaGotLatent\\NicheSocialPlatform\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "Models\\Post.cs",
+              "ToolTip": "E:\\IndiaGotLatent\\NicheSocialPlatform\\Models\\Post.cs",
+              "RelativeToolTip": "Models\\Post.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T11:38:22.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\IndiaGotLatent\\NicheSocialPlatform\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\IndiaGotLatent\\NicheSocialPlatform\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-18T10:32:18.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreatePostDto.cs",
+              "DocumentMoniker": "E:\\IndiaGotLatent\\NicheSocialPlatform\\Dtos\\CreatePostDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\CreatePostDto.cs",
+              "ToolTip": "E:\\IndiaGotLatent\\NicheSocialPlatform\\Dtos\\CreatePostDto.cs",
+              "RelativeToolTip": "Dtos\\CreatePostDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T11:45:05.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "E:\\IndiaGotLatent\\NicheSocialPlatform\\Dtos\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\RegisterDto.cs",
+              "ToolTip": "E:\\IndiaGotLatent\\NicheSocialPlatform\\Dtos\\RegisterDto.cs",
+              "RelativeToolTip": "Dtos\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T10:10:17.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\IndiaGotLatent\\NicheSocialPlatform\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "E:\\IndiaGotLatent\\NicheSocialPlatform\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAwCoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T09:43:43.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Post.cs",
+              "DocumentMoniker": "E:\\IndiaGotLatent\\NicheSocialPlatform\\Controllers\\Post.cs",
+              "RelativeDocumentMoniker": "Controllers\\Post.cs",
+              "ToolTip": "E:\\IndiaGotLatent\\NicheSocialPlatform\\Controllers\\Post.cs",
+              "RelativeToolTip": "Controllers\\Post.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwCIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T11:43:32.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\IndiaGotLatent\\NicheSocialPlatform\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Context\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\IndiaGotLatent\\NicheSocialPlatform\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T13:37:10.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "E:\\IndiaGotLatent\\NicheSocialPlatform\\Dtos\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\LoginDto.cs",
+              "ToolTip": "E:\\IndiaGotLatent\\NicheSocialPlatform\\Dtos\\LoginDto.cs",
+              "RelativeToolTip": "Dtos\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T09:40:24.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NicheSocialPlatform.csproj",
+              "DocumentMoniker": "E:\\IndiaGotLatent\\NicheSocialPlatform\\NicheSocialPlatform.csproj",
+              "RelativeDocumentMoniker": "NicheSocialPlatform.csproj",
+              "ToolTip": "E:\\IndiaGotLatent\\NicheSocialPlatform\\NicheSocialPlatform.csproj",
+              "RelativeToolTip": "NicheSocialPlatform.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-18T13:35:50.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240918100237_initital.cs",
+              "DocumentMoniker": "E:\\NicheSocialPlatform\\Migrations\\20240918100237_initital.cs",
+              "RelativeDocumentMoniker": "..\\..\\NicheSocialPlatform\\Migrations\\20240918100237_initital.cs",
+              "ToolTip": "E:\\NicheSocialPlatform\\Migrations\\20240918100237_initital.cs",
+              "RelativeToolTip": "..\\..\\NicheSocialPlatform\\Migrations\\20240918100237_initital.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T10:02:37.419Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

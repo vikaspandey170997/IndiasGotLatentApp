@@ -1,0 +1,4 @@
+wwwroot\uploads\IMG_20240908_130136.jpg
+wwwroot\uploads\logo.svg
+wwwroot\uploads\preview.mp4
+wwwroot\uploads\preview_roll.mp4
